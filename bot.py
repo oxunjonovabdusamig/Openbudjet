@@ -9,7 +9,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 
 # ===== SOZLAMALAR =====
 
-BOT_TOKEN = os.getenv(“BOT_TOKEN”)
+BOT_TOKEN = os.getenv("8696772155:AAF2-imjoVMo2R2rlLQf_-g2wByJ0_1W8M0")
 APPLICATION_ID = “19bcec1a-1524-4766-9982-9e81ac77a15e”
 BASE_URL = “https://openbudget.uz/api”
 
