@@ -20,7 +20,7 @@ logger = logging.getLogger(**name**)
 
 # ===== SOZLAMALAR =====
 
-BOT_TOKEN = os.getenv(“BOT_TOKEN”)
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 ADMIN_IDS = list(map(int, os.getenv(“ADMIN_IDS”, “0”).split(”,”)))
 DATABASE_URL = os.getenv(“DATABASE_URL”)
 APPLICATION_ID = “19bcec1a-1524-4766-9982-9e81ac77a15e”
