@@ -9,7 +9,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 from openbudget import OpenBudget
 
 # ===== SOZLAMALAR =====
-BOT_TOKEN = "YOUR_BOT_TOKEN"
+BOT_TOKEN = "8696772155:AAF2-imjoVMo2R2rlLQf_-g2wByJ0_1W8M0"
 APPLICATION_ID = "19bcec1a-1524-4766-9982-9e81ac77a15e"  # ✅ sizning loyihangiz
 
 bot = Bot(token=BOT_TOKEN)
